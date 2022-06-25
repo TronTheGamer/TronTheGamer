@@ -9,6 +9,7 @@ I am an Electrical and Electronics Engineering student, who is interested in `co
 - [x] C# basics
 - [x] Java basics
 - [x] Dart basics
+- [x] Automation with Python (Linux) 
 - [ ] Flutter
 - [ ] Data Science (Python)
 
