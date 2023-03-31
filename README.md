@@ -14,7 +14,7 @@ Master of
 ---------
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,java,c,flutter,bash" />
+    <img src="https://skillicons.dev/icons?i=git,python,java,cpp,flutter,bash,dart" />
   </a>
 </p>
 I am an Electrical and Electronics Engineering student, who is interested in \`coding\`.
