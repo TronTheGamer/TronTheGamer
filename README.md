@@ -10,9 +10,13 @@ I am an Electrical and Electronics Engineering student, who is interested in `co
 Hello there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yaduraj J
 =================================================================================================================================
 
-Master of
+Master of 
 ---------
-
+p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,python,java,c++" />
+  </a>
+</p>
 I am an Electrical and Electronics Engineering student, who is interested in \`coding\`.
 
 * 🌍  I'm based in India
