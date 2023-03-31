@@ -12,9 +12,9 @@ Hello there! ![](https://user-images.githubusercontent.com/18350557/176309783-07
 
 Master of 
 ---------
-p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,java,c++" />
+    <img src="https://skillicons.dev/icons?i=git,python,java,c,flutter,bash" />
   </a>
 </p>
 I am an Electrical and Electronics Engineering student, who is interested in \`coding\`.
