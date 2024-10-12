@@ -25,6 +25,9 @@ Tools ans OS that I'm Comfortable with
     <img src="https://skillicons.dev/icons?i=git,linux,emacs,neovim,arduino,powershell,figma,windows,vscode,blender" />
   </a>
 </p>
+
+About Me:
+---------
 I am an Electrical and Electronics Engineer, who is interested in \`coding\`.
 
 * 🌍  I'm based in India
