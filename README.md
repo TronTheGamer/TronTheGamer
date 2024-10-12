@@ -14,18 +14,20 @@ Master of
 ---------
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,java,cpp,flutter,bash,dart" />
+    <img src="https://skillicons.dev/icons?i=git,python,java,cpp,flutter,bash,fish,dart" />
   </a>
 </p>
-I am an Electrical and Electronics Engineering student, who is interested in \`coding\`.
+I am an Electrical and Electronics Engineer, who is interested in \`coding\`.
 
 * 🌍  I'm based in India
+* 🤖  I'm currently working as Robotics Engineer.
 * ✉️  You can contact me at [yadu1raj@gmail.com](mailto:yadu1raj@gmail.com)
 * 🧠  I'm learning Embedded Systems Design, Web developement, Flutter Framework, Javascript
 * 🤝  I'm open to collaborating on Linux, App developement, Web developement
 
 ## Current State of *Programming knowledge and interests*
 - [x] Python basics
+- [x] Robotics
 - [x] C++ basics
 - [x] C# basics
 - [x] Java basics
