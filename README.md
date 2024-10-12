@@ -14,7 +14,15 @@ Master of
 ---------
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,java,cpp,flutter,bash,fish,dart" />
+    <img src="https://skillicons.dev/icons?i=git,python,cpp,flutter,bash,dart" />
+  </a>
+</p>
+
+Tools ans OS that I'm Comfortable with 
+--------------------------------------
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,linux,emacs,neovim,arduino,powershell,figma,windows,VSCode" />
   </a>
 </p>
 I am an Electrical and Electronics Engineer, who is interested in \`coding\`.
