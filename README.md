@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I am currently working on Robotics Embedded Firmware.<br>I am an Electronics Engineer with Experience in developing Embedded Firmware, Control Algorithms, Machine Learning and much more...<br><br> 
 
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/yaduraj-jagadeesan-722985212) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@yadu1raj) 
@@ -15,8 +16,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TronTheGamer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+---
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TronTheGamer&limit=5&theme=dark&combine_all_yearly_contributions=true)
